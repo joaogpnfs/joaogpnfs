@@ -1,9 +1,11 @@
-## Olá! Me chamo João Gabriel 🎧
+## Hi! My name is João Gabriel 🎧
 
-
-- 🔭 Atualmente aprendendo Javascript
-- 🧭 Ciência de Dados e Análise de Dados
-- ✉️ Contato: jgpnfeitosa57@gmail.com
+- Full Stack Engineer (Node.js, TypeScript)
+- Focused on scalable systems and backend development
+- Interested in infrastructure, security, and developer tooling
+- Experience with APIs, data processing, and real-world products
+- Currently based in India • Open to global opportunities
+- ✉️ Contact: jgpnfeitosa57@gmail.com
 
 <div>
   <a href="https://github.com/joaogpnfs/">
