@@ -4,7 +4,7 @@
 - Focused on scalable systems and backend development
 - Interested in infrastructure, security, and developer tooling
 - Experience with APIs, data processing, and real-world products
-- Currently based in India • Open to global opportunities
+- Currently based in Brasil • Open to global opportunities
 - ✉️ Contact: jgpnfeitosa57@gmail.com
 
 <div>
